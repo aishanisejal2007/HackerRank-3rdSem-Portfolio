@@ -36,3 +36,28 @@ All five required problems were successfully submitted on HackerRank.
 - Data Structures
 - Problem Solving
 - Time and Space Complexity Analysis
+
+
+
+
+
+
+## HackerRank Screenshots
+
+### HackerRank Profile
+![HackerRank Profile](01-hackerrank-profile.png)
+
+### Diagonal Difference
+![Diagonal Difference](02-diagonal-difference.png)
+
+### Dynamic Array
+![Dynamic Array](03-dynamic-array.png)
+
+### Time Conversion
+![Time Conversion](04-time-conversion.png)
+
+### Compare the Triplets
+![Compare the Triplets](05-compare-the-triplets.png)
+
+### Sparse Arrays
+![Sparse Arrays](06-sparse-arrays.png)
